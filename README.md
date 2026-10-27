@@ -8,6 +8,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [SmallPDF](https://smallpdf.com/)
 
 ## Image Tools
+- [ImgFlow](https://imgflow.taoliapp.com/en/) — free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size); files stay on device
 - [WebTools Engine – Image Compressor & Metadata Remover](https://blazesolutions.info/image-tools) — compress, resize, crop, strip EXIF data client-side
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
